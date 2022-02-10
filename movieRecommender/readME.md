@@ -1,6 +1,6 @@
 # Basic Movie Recommender system in python
 
-![image](https://user-images.githubusercontent.com/91733415/153350926-0a915dd5-b4b5-4208-bf39-e95310a348e1.png)
+   ![image](https://user-images.githubusercontent.com/91733415/153350926-0a915dd5-b4b5-4208-bf39-e95310a348e1.png)
 
 Takeaways from this small project:
 
