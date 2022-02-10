@@ -16,5 +16,6 @@ The vector representations of the titles, actors and or directors can then be us
 
 In the python notebook, I can see that cosine similarity of 1 implies that the two movies are exactly alike and a cosine similarity of 0 would point to the conclusion that there are no similarities between the two movies.
 
-**Conclusion**
+**Conclusion** 
+
 In e-Commerce domain, cosine similarity could be used for identifying the best similar products for recommendation to a user for a E-commerce website. 
