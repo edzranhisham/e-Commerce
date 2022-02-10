@@ -1,5 +1,7 @@
 # Basic Movie Recommender system in python
 
+![image](https://user-images.githubusercontent.com/91733415/153350926-0a915dd5-b4b5-4208-bf39-e95310a348e1.png)
+
 Takeaways from this small project:
 
 1) Cosine Similarity
@@ -10,7 +12,7 @@ It is one method of quantifying the similarity between two or more objects and b
 
 In this small movie recommender project, quantification of the similarity between two movies can be obtained by converting the words or phrases within the titles, actors and or directors into a vectorised form of representation.
 
-The vector representations of the titles,actors and or directors can then be used within the cosine similarity formula to obtain a quantification of similarity
+The vector representations of the titles, actors and or directors can then be used within the cosine similarity formula to obtain a quantification of similarity
 
 In the python notebook, I can see that cosine similarity of 1 implies that the two movies are exactly alike and a cosine similarity of 0 would point to the conclusion that there are no similarities between the two movies.
 
